@@ -1,2 +1,7 @@
 Pods
 Podfile.lock
+MyChat.xcodeproj/xcuserdata
+MyChat.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist
+MyChat.xcodeproj/xcuserdata/xabdaz.xcuserdatad/xcschemes/xcschememanagement.plist
+MyChat.xcodeproj/xcuserdata/xabdaz.xcuserdatad/xcschemes/xcschememanagement.plist
+*.plist
